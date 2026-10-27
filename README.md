@@ -18,7 +18,7 @@ I work at the intersection of security governance, risk and the technical side o
 
 ### 🌍 Background
 - BA International Studies (Middle East), Leiden University
-- Languages: Spanish, English, Arabic (intermediate)
+- Languages: Spanish, English, Hebrew, French, Dutch Arabic (intermediate)
 
 ### 📫 Contact
 [LinkedIn](https://www.linkedin.com/in/YOUR-PROFILE) · mateobibis@gmail.com
