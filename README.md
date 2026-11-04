@@ -13,12 +13,12 @@ I work at the intersection of security governance, risk and the technical side o
 | Project | Description |
 |---|---|
 | [wazuh-siem-homelab](https://github.com/bibi-mateo55/wazuh-siem-homelab) | Home SIEM lab with Wazuh on macOS/UTM: Ubuntu Server 24.04 manager + Windows 11 endpoint with agent |
-| *Coming soon* | ISO 27005 risk register for a fictional organisation |
+| [grc-risk-register-ai](https://github.com/bibi-mateo55/grc-risk-register-ai) | AI-assisted ISO 27005-style risk register, with a worked example for a fictional logistics SME |
 | *Coming soon* | NIS2 gap analysis for an SME |
 
 ### Background
 - BA International Studies (Middle East), Leiden University
-- Languages: Spanish, English, Hebrew, French, Dutch Arabic (intermediate)
+- Languages: Spanish (native), English (C1), Hebrew, French, Arabic (intermediate), Dutch (basic)
 
 ### Contact
  · mateobibis@gmail.com
